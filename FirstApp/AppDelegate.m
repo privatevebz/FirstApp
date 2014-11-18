@@ -19,8 +19,6 @@
     // Override point for customization after application launch.
     
     
-    // TODO: Add Crashlytics tracking.
-    
     return YES;
 }
 
